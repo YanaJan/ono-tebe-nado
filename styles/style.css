@@ -3,24 +3,23 @@
   padding-bottom: 4px; 
   display: grid;
   grid-template-columns: repeat(3, 2fr);
-  height: 109px;
   font-size: 18px;
   font-weight: 400;
   line-height: 1.35;
 }
 
-.nav{
+.nav {
   align-self: center;
 }
 
-.nav-list{
+.nav-list {
   align-self: center;
   display: flex;
   gap: 32px;
   list-style: circle;
 }
 
-.unique-item-nav-list{
+.unique-item-nav-list {
   list-style: none;
 }
 
@@ -37,7 +36,7 @@ text-underline-offset: 5px;
 
 }
 
-.header-logo-image{
+.header-logo-image {
   width: 100%;
 }
 
@@ -266,7 +265,7 @@ align-self: start;
 width: 240px;
 }
 
-.img-footer{
+.img-footer {
 display: inline-block;
 height: 48px;
 }
