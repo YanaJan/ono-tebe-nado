@@ -50,7 +50,6 @@ text-underline-offset: 5px;
 }
 
 .cover {
-min-height: 757px;
 padding: 165px 50px 50px;
 background-image: linear-gradient(rgba(0, 0, 0, 0.6),
 rgba(0, 0, 0, 0.6)),url('../images/cover.jpg');
