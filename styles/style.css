@@ -1,6 +1,6 @@
 .header {
   margin : 92px 50px 92px;
-  padding-bottom: 4px; 
+  padding-bottom: 4px;
   display: grid;
   grid-template-columns: repeat(3, 2fr);
   font-size: 18px;
@@ -93,9 +93,9 @@ rgba(0, 0, 0, 0.6)),url('../images/cover.jpg');
 
 .text-right {
   text-align: right;
-  line-height: 100px; 
+  line-height: 100px;
   letter-spacing: 60px;
-  margin-bottom: 16px;;
+  margin-bottom: 16px;
 }
 
 .ad {
@@ -175,7 +175,7 @@ rgba(0, 0, 0, 0.6)),url('../images/cover.jpg');
   color: #FFF;
   font-size: 22px;
   font-weight: 700;
-  line-height: 120%; 
+  line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
   list-style: none;
